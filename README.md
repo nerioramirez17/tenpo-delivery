@@ -1,5 +1,5 @@
 # Tenpo-delivery
-Maquetadi de app de delivery, realizada en react native, con styled components 
+Maquetado de app de delivery, realizada en react native, con styled components 
 
 ## Para Empezar
 
