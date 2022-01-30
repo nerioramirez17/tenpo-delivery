@@ -1,5 +1,5 @@
 # Tenpo-delivery
-Maquetado de app de delivery, realizada en react native, con styled components 
+Maquetado de app de delivery, realizada con expo, react native y styled components 
 
 ## Para Empezar
 
@@ -21,7 +21,6 @@ Ios
 
 ### Instalar
 
-
 ```
 yarn install
 ```
@@ -31,5 +30,12 @@ y levanta con
 ```
 yarn start
 ```
+Una vez levantada la app, desde la consola podemos elegir en que emulador ver
+
+```
+Press a │ open Android
+Press i │ open iOS simulator
+```
+
 
 
